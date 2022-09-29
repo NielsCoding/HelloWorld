@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main(){
-	printf("Hello, Universe!");
+	printf("Hello, Galaxy and Universe!");
 	return 0;
 }
 
